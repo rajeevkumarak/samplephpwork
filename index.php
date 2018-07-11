@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Developing first develop hope it works fine PHP Application</h1>
+<h1>manual approval process inbuild with this php code delopy</h1>
 
 <?php
 echo "version 1.0";
